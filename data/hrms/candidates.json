@@ -1,0 +1,29 @@
+[
+ {
+  "employee_id": "HR1021",
+  "name": "Rahul Sharma",
+  "email": "rahul.sharma@email.com",
+  "skills": ["Python","Django"],
+  "experience_years": 3,
+  "location": "Bangalore",
+  "education": "B.Tech Computer Science"
+ },
+ {
+  "employee_id": "HR1022",
+  "name": "Priya Patel",
+  "email": "priya.patel@email.com",
+  "skills": ["Java","Spring Boot"],
+  "experience_years": 4,
+  "location": "Ahmedabad",
+  "education": "B.Tech Information Technology"
+ },
+ {
+  "employee_id": "HR1023",
+  "name": "Rohit Singh",
+  "email": "rohit.singh@email.com",
+  "skills": ["React","Node.js"],
+  "experience_years": 2,
+  "location": "Mumbai",
+  "education": "B.Tech Computer Science"
+ }
+]

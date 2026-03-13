@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Rahul Sharma",
+  "email": "rahul.sharma@email.com",
+  "headline": "Backend Engineer at Infosys",
+  "skills": ["Python","AWS","Django"],
+  "experience": [
+   {"company": "Infosys", "years": 3}
+  ],
+  "location": "Bangalore"
+ },
+ {
+  "name": "Aman Verma",
+  "email": "aman.verma@email.com",
+  "headline": "Machine Learning Engineer",
+  "skills": ["Python","TensorFlow","Deep Learning"],
+  "experience": [
+   {"company": "Wipro", "years": 2}
+  ],
+  "location": "Delhi"
+ },
+ {
+  "name": "Sneha Gupta",
+  "email": "sneha.gupta@email.com",
+  "headline": "Frontend Developer",
+  "skills": ["React","JavaScript","CSS"],
+  "experience": [
+   {"company": "StartupX", "years": 3}
+  ],
+  "location": "Pune"
+ }
+]

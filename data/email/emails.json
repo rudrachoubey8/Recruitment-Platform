@@ -1,0 +1,26 @@
+[
+ {
+  "email": "rahul.sharma@email.com",
+  "name": "Rahul Sharma",
+  "subject": "Application for Backend Developer",
+  "resume_text": "Backend developer with 3 years experience in Python, Django and PostgreSQL",
+  "skills": ["Python","Django","PostgreSQL"],
+  "location": "Bangalore"
+ },
+ {
+  "email": "priya.patel@email.com",
+  "name": "Priya Patel",
+  "subject": "Application for Java Developer",
+  "resume_text": "Java backend developer experienced with Spring Boot and microservices",
+  "skills": ["Java","Spring Boot","Microservices"],
+  "location": "Ahmedabad"
+ },
+ {
+  "email": "aman.verma@email.com",
+  "name": "Aman Verma",
+  "subject": "Application for ML Engineer",
+  "resume_text": "Machine learning engineer with TensorFlow and Python experience",
+  "skills": ["Python","TensorFlow","Machine Learning"],
+  "location": "Delhi"
+ }
+]
